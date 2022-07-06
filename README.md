@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate Web Developer from Nigeria</h3>
-<p>I love making static and dynamic sites</p>
+<h3 align="center">A Passionate Web Developer from Nigeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuszJo](https://github.com/JuszJo)
 
