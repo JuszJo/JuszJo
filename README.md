@@ -2,6 +2,13 @@
 <h3 align="center">A Passionate Software Engineer from Nigeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuszJo](https://github.com/JuszJo)
+- 
+#### Projects
+
+* [Pathfinding Visualizer](https://JuszJo.github.io/graph)
+* [Platformer](https://JuszJo.github.io/multi-room)
+* [Calculator](https://JuszJo.github.io/calculator)
+* [Circle](https://JuszJo.github.io/Circles)
 
 - 📫 How to reach me **joshuaubaniwokoma@gmail.com**
 
