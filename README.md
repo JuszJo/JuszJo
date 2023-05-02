@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Software Engineer from Nigeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuszJo](https://github.com/JuszJo)
-- 
-#### Projects
+
+### Small Projects
 
 * [Pathfinding Visualizer](https://JuszJo.github.io/graph)
 * [Platformer](https://JuszJo.github.io/multi-room)
