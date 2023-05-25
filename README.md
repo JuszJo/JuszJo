@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/jo_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jo_codes" height="30" width="40" /></a>
 </p>
-<a href="[https://twitter.com/jo_codes](https://www.linkedin.com/in/joshua-ubani-wokoma-560098227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jo_codes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshua-ubani-wokoma-560098227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jo_codes" height="30" width="40" /></a>
 </p>
 
 
