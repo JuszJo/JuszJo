@@ -7,6 +7,7 @@
 ### Mini Projects
 
 * [Pathfinding Visualizer](https://JuszJo.github.io/graph)
+* [Snake](https://JuszJo.github.io/snake)
 * [Platformer](https://JuszJo.github.io/multi-room)
 * [Calculator](https://JuszJo.github.io/calculator)
 * [Circle](https://JuszJo.github.io/Circles)
