@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A Passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 ## Portfolio
-* [Portfolio](https://joshua-ubani-wokoma-portfolio.netlify.app/)
+* [Portfolio](https://juwok.com)
 
 ### Mini Projects
 
