@@ -4,6 +4,9 @@
 ## Portfolio
 * [Portfolio](https://juwok.com)
 
+### Featured Projects
+* [Space Shooters](https://github.com/JuszJo/space-shooters) — A simple space shooters game made in C++ using a mix of Entity Component Systems and OOP/
+
 ### Mini Projects
 
 * [Pathfinding Visualizer](https://JuszJo.github.io/graph)
